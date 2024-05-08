@@ -1,0 +1,23 @@
+{
+  "name": "smartcontract_for_real_estate_escrow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranaykumar247/SmartContract_for_Real_Estate_Escrow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranaykumar247/SmartContract_for_Real_Estate_Escrow/issues"
+  },
+  "homepage": "https://github.com/pranaykumar247/SmartContract_for_Real_Estate_Escrow#readme",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.3"
+  }
+}
